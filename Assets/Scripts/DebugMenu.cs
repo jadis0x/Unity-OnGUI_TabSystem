@@ -6,11 +6,7 @@ public class DebugMenu : MonoBehaviour
     {
         Visuals = 0,
         Entities = 1,
-        Map = 2,
-        ESP = 3,
-        Items = 4,
-        Misc = 5,
-        Players = 6
+        Map = 2
     }
 
     #region menu
